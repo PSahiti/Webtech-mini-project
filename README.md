@@ -1,3 +1,5 @@
+<img width="1843" height="605" alt="Screenshot 2026-01-08 133026" src="https://github.com/user-attachments/assets/e4eb5466-4518-4851-8eb3-297f4c6a818e" />
+<img width="1843" height="605" alt="Screenshot 2026-01-08 133026" src="https://github.com/user-attachments/assets/5966701c-8876-4ec5-980e-9a743a123887" />
 # Webtech-mini-project
 Personal Portfolio Website 🚀
 
